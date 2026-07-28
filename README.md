@@ -22,7 +22,7 @@
 
 | 文件 | 简述 | 最后更新 | 状态 | 负责人 |
 | --- | --- | --- | --- | --- |
-| [dna\_extraction\_v2.md](./molecular/dna_extraction_v2.md) | 组织样本 DNA 提取（磁珠法） | 2026-06-15 | ✅ | @zhangsan |
+| [SOP\_AEMWE\_003.md](https://github.com/poweryhx/xMeSC/blob/main/AEWME/SOP-AEMWE-003_%E7%A2%B1%E6%B6%B2%E9%85%8D%E7%BD%AE%E6%A0%87%E5%87%86%E6%93%8D%E4%BD%9C%E7%A8%8B%E5%BA%8F_V1.0%E6%92%B0%E5%86%99%E5%88%98%E6%96%87%E8%B1%AA%E4%B8%80%E5%AE%A1%E5%8F%B6%E6%80%80%E5%85%AE.md) | 组织样本 DNA 提取（磁珠法） | 2026-06-15 | ✅ | @zhangsan |
 | [pcr\_qpcr\_setup.md](./molecular/pcr_qpcr_setup.md) | qPCR 体系配置与上机流程 | 2026-05-20 | 🚧 | @lisi |
 
 ### 仪器方向SOP
